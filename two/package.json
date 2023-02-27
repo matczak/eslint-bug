@@ -1,0 +1,7 @@
+{
+  "name": "two",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "custom-lint --ext=.js --path=src/**"
+  }
+}
